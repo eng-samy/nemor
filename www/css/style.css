@@ -1,0 +1,17 @@
+.noSpace {
+	white-space: normal !important;
+}
+
+.element{
+  direction: rtl;
+}
+
+*{
+	direction: rtl;
+}
+
+
+.item h2 {
+    margin: 6px 0 2px 0;
+    font-size: 18px;
+    line-height: 30px;
